@@ -1,0 +1,785 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE oor:component-data SYSTEM "../../../../component-update.dtd">
+<oor:component-data xmlns:oor="http://openoffice.org/2001/registry"
+  xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:install="http://openoffice.org/2004/installation" oor:name="UI"
+  oor:package="org.openoffice.Office">
+  <node oor:name="ColorScheme">
+    <node oor:name="ColorSchemes">
+      <node oor:name="Office 2003 Blue" oor:op="replace">
+        <node oor:name="Links">
+          <prop oor:name="Dark" oor:op="fuse">
+            <value xsi:nil="true" />
+          </prop>
+          <prop oor:name="Light" oor:op="fuse">
+            <value xsi:nil="true" />
+          </prop>
+          <prop oor:name="IsVisible" oor:op="fuse">
+            <value>false</value>
+          </prop>
+        </node>
+        <node oor:name="Spell">
+          <prop oor:name="Dark" oor:op="fuse">
+            <value xsi:nil="true" />
+          </prop>
+          <prop oor:name="Light" oor:op="fuse">
+            <value xsi:nil="true" />
+          </prop>
+        </node>
+        <node oor:name="Shadow">
+          <prop oor:name="Dark" oor:op="fuse">
+            <value xsi:nil="true" />
+          </prop>
+          <prop oor:name="Light" oor:op="fuse">
+            <value xsi:nil="true" />
+          </prop>
+          <prop oor:name="IsVisible" oor:op="fuse">
+            <value>true</value>
+          </prop>
+        </node>
+        <node oor:name="Author1">
+          <prop oor:name="Dark" oor:op="fuse">
+            <value xsi:nil="true" />
+          </prop>
+          <prop oor:name="Light" oor:op="fuse">
+            <value xsi:nil="true" />
+          </prop>
+        </node>
+        <node oor:name="Author2">
+          <prop oor:name="Dark" oor:op="fuse">
+            <value xsi:nil="true" />
+          </prop>
+          <prop oor:name="Light" oor:op="fuse">
+            <value xsi:nil="true" />
+          </prop>
+        </node>
+        <node oor:name="Author3">
+          <prop oor:name="Dark" oor:op="fuse">
+            <value xsi:nil="true" />
+          </prop>
+          <prop oor:name="Light" oor:op="fuse">
+            <value xsi:nil="true" />
+          </prop>
+        </node>
+        <node oor:name="Author4">
+          <prop oor:name="Dark" oor:op="fuse">
+            <value xsi:nil="true" />
+          </prop>
+          <prop oor:name="Light" oor:op="fuse">
+            <value xsi:nil="true" />
+          </prop>
+        </node>
+        <node oor:name="Author5">
+          <prop oor:name="Dark" oor:op="fuse">
+            <value xsi:nil="true" />
+          </prop>
+          <prop oor:name="Light" oor:op="fuse">
+            <value xsi:nil="true" />
+          </prop>
+        </node>
+        <node oor:name="Author6">
+          <prop oor:name="Dark" oor:op="fuse">
+            <value xsi:nil="true" />
+          </prop>
+          <prop oor:name="Light" oor:op="fuse">
+            <value xsi:nil="true" />
+          </prop>
+        </node>
+        <node oor:name="Author7">
+          <prop oor:name="Dark" oor:op="fuse">
+            <value xsi:nil="true" />
+          </prop>
+          <prop oor:name="Light" oor:op="fuse">
+            <value xsi:nil="true" />
+          </prop>
+        </node>
+        <node oor:name="Author8">
+          <prop oor:name="Dark" oor:op="fuse">
+            <value xsi:nil="true" />
+          </prop>
+          <prop oor:name="Light" oor:op="fuse">
+            <value xsi:nil="true" />
+          </prop>
+        </node>
+        <node oor:name="Author9">
+          <prop oor:name="Dark" oor:op="fuse">
+            <value xsi:nil="true" />
+          </prop>
+          <prop oor:name="Light" oor:op="fuse">
+            <value xsi:nil="true" />
+          </prop>
+        </node>
+        <node oor:name="Grammar">
+          <prop oor:name="Dark" oor:op="fuse">
+            <value xsi:nil="true" />
+          </prop>
+          <prop oor:name="Light" oor:op="fuse">
+            <value xsi:nil="true" />
+          </prop>
+        </node>
+        <node oor:name="CalcGrid">
+          <prop oor:name="Dark" oor:op="fuse">
+            <value>1842204</value>
+          </prop>
+          <prop oor:name="Light" oor:op="fuse">
+            <value xsi:nil="true" />
+          </prop>
+        </node>
+        <node oor:name="CalcText">
+          <prop oor:name="Dark" oor:op="fuse">
+            <value xsi:nil="true" />
+          </prop>
+          <prop oor:name="Light" oor:op="fuse">
+            <value xsi:nil="true" />
+          </prop>
+        </node>
+        <node oor:name="DocColor">
+          <prop oor:name="Dark" oor:op="fuse">
+            <value>16777215</value>
+          </prop>
+          <prop oor:name="Light" oor:op="fuse">
+            <value xsi:nil="true" />
+          </prop>
+        </node>
+        <node oor:name="DrawGrid">
+          <prop oor:name="Dark" oor:op="fuse">
+            <value xsi:nil="true" />
+          </prop>
+          <prop oor:name="Light" oor:op="fuse">
+            <value xsi:nil="true" />
+          </prop>
+          <prop oor:name="IsVisible" oor:op="fuse">
+            <value>true</value>
+          </prop>
+        </node>
+        <node oor:name="HTMLSGML">
+          <prop oor:name="Dark" oor:op="fuse">
+            <value xsi:nil="true" />
+          </prop>
+          <prop oor:name="Light" oor:op="fuse">
+            <value xsi:nil="true" />
+          </prop>
+        </node>
+        <node oor:name="BaseColor">
+          <prop oor:name="Dark" oor:op="fuse">
+            <value>1842204</value>
+          </prop>
+          <prop oor:name="Light" oor:op="fuse">
+            <value>16777215</value>
+          </prop>
+        </node>
+        <node oor:name="CalcValue">
+          <prop oor:name="Dark" oor:op="fuse">
+            <value xsi:nil="true" />
+          </prop>
+          <prop oor:name="Light" oor:op="fuse">
+            <value xsi:nil="true" />
+          </prop>
+        </node>
+        <node oor:name="FaceColor">
+          <prop oor:name="Dark" oor:op="fuse">
+            <value>15658734</value>
+          </prop>
+          <prop oor:name="Light" oor:op="fuse">
+            <value>2764338</value>
+          </prop>
+        </node>
+        <node oor:name="FontColor">
+          <prop oor:name="Dark" oor:op="fuse">
+            <value xsi:nil="true" />
+          </prop>
+          <prop oor:name="Light" oor:op="fuse">
+            <value xsi:nil="true" />
+          </prop>
+        </node>
+        <node oor:name="MenuColor">
+          <prop oor:name="Dark" oor:op="fuse">
+            <value>1842204</value>
+          </prop>
+          <prop oor:name="Light" oor:op="fuse">
+            <value>16185078</value>
+          </prop>
+        </node>
+        <node oor:name="SQLNumber">
+          <prop oor:name="Dark" oor:op="fuse">
+            <value xsi:nil="true" />
+          </prop>
+          <prop oor:name="Light" oor:op="fuse">
+            <value xsi:nil="true" />
+          </prop>
+        </node>
+        <node oor:name="SQLString">
+          <prop oor:name="Dark" oor:op="fuse">
+            <value xsi:nil="true" />
+          </prop>
+          <prop oor:name="Light" oor:op="fuse">
+            <value xsi:nil="true" />
+          </prop>
+        </node>
+        <node oor:name="SmartTags">
+          <prop oor:name="Dark" oor:op="fuse">
+            <value xsi:nil="true" />
+          </prop>
+          <prop oor:name="Light" oor:op="fuse">
+            <value xsi:nil="true" />
+          </prop>
+        </node>
+        <node oor:name="BASICError">
+          <prop oor:name="Dark" oor:op="fuse">
+            <value xsi:nil="true" />
+          </prop>
+          <prop oor:name="Light" oor:op="fuse">
+            <value xsi:nil="true" />
+          </prop>
+        </node>
+        <node oor:name="FieldColor">
+          <prop oor:name="Dark" oor:op="fuse">
+            <value>3355443</value>
+          </prop>
+          <prop oor:name="Light" oor:op="fuse">
+            <value>1777184</value>
+          </prop>
+        </node>
+        <node oor:name="SQLComment">
+          <prop oor:name="Dark" oor:op="fuse">
+            <value xsi:nil="true" />
+          </prop>
+          <prop oor:name="Light" oor:op="fuse">
+            <value xsi:nil="true" />
+          </prop>
+        </node>
+        <node oor:name="SQLKeyword">
+          <prop oor:name="Dark" oor:op="fuse">
+            <value xsi:nil="true" />
+          </prop>
+          <prop oor:name="Light" oor:op="fuse">
+            <value xsi:nil="true" />
+          </prop>
+        </node>
+        <node oor:name="AccentColor">
+          <prop oor:name="Dark" oor:op="fuse">
+            <value>5280650</value>
+          </prop>
+          <prop oor:name="Light" oor:op="fuse">
+            <value>5866416</value>
+          </prop>
+        </node>
+        <node oor:name="ActiveColor">
+          <prop oor:name="Dark" oor:op="fuse">
+            <value>5280650</value>
+          </prop>
+          <prop oor:name="Light" oor:op="fuse">
+            <value>4042473</value>
+          </prop>
+        </node>
+        <node oor:name="BASICEditor">
+          <prop oor:name="Dark" oor:op="fuse">
+            <value xsi:nil="true" />
+          </prop>
+          <prop oor:name="Light" oor:op="fuse">
+            <value xsi:nil="true" />
+          </prop>
+        </node>
+        <node oor:name="BASICNumber">
+          <prop oor:name="Dark" oor:op="fuse">
+            <value xsi:nil="true" />
+          </prop>
+          <prop oor:name="Light" oor:op="fuse">
+            <value xsi:nil="true" />
+          </prop>
+        </node>
+        <node oor:name="BASICString">
+          <prop oor:name="Dark" oor:op="fuse">
+            <value xsi:nil="true" />
+          </prop>
+          <prop oor:name="Light" oor:op="fuse">
+            <value xsi:nil="true" />
+          </prop>
+        </node>
+        <node oor:name="ButtonColor">
+          <prop oor:name="Dark" oor:op="fuse">
+            <value>3355443</value>
+          </prop>
+          <prop oor:name="Light" oor:op="fuse">
+            <value xsi:nil="true" />
+          </prop>
+        </node>
+        <node oor:name="CalcFormula">
+          <prop oor:name="Dark" oor:op="fuse">
+            <value xsi:nil="true" />
+          </prop>
+          <prop oor:name="Light" oor:op="fuse">
+            <value xsi:nil="true" />
+          </prop>
+        </node>
+        <node oor:name="HTMLComment">
+          <prop oor:name="Dark" oor:op="fuse">
+            <value xsi:nil="true" />
+          </prop>
+          <prop oor:name="Light" oor:op="fuse">
+            <value xsi:nil="true" />
+          </prop>
+        </node>
+        <node oor:name="HTMLKeyword">
+          <prop oor:name="Dark" oor:op="fuse">
+            <value xsi:nil="true" />
+          </prop>
+          <prop oor:name="Light" oor:op="fuse">
+            <value xsi:nil="true" />
+          </prop>
+        </node>
+        <node oor:name="HTMLUnknown">
+          <prop oor:name="Dark" oor:op="fuse">
+            <value xsi:nil="true" />
+          </prop>
+          <prop oor:name="Light" oor:op="fuse">
+            <value xsi:nil="true" />
+          </prop>
+        </node>
+        <node oor:name="SQLOperator">
+          <prop oor:name="Dark" oor:op="fuse">
+            <value xsi:nil="true" />
+          </prop>
+          <prop oor:name="Light" oor:op="fuse">
+            <value xsi:nil="true" />
+          </prop>
+        </node>
+        <node oor:name="ShadowColor">
+          <prop oor:name="Dark" oor:op="fuse">
+            <value>10066329</value>
+          </prop>
+          <prop oor:name="Light" oor:op="fuse">
+            <value>7238003</value>
+          </prop>
+        </node>
+        <node oor:name="WindowColor">
+          <prop oor:name="Dark" oor:op="fuse">
+            <value>1118481</value>
+          </prop>
+          <prop oor:name="Light" oor:op="fuse">
+            <value>12835577</value>
+          </prop>
+        </node>
+        <node oor:name="BASICComment">
+          <prop oor:name="Dark" oor:op="fuse">
+            <value xsi:nil="true" />
+          </prop>
+          <prop oor:name="Light" oor:op="fuse">
+            <value xsi:nil="true" />
+          </prop>
+        </node>
+        <node oor:name="BASICKeyword">
+          <prop oor:name="Dark" oor:op="fuse">
+            <value xsi:nil="true" />
+          </prop>
+          <prop oor:name="Light" oor:op="fuse">
+            <value xsi:nil="true" />
+          </prop>
+        </node>
+        <node oor:name="CalcComments">
+          <prop oor:name="Dark" oor:op="fuse">
+            <value xsi:nil="true" />
+          </prop>
+          <prop oor:name="Light" oor:op="fuse">
+            <value xsi:nil="true" />
+          </prop>
+        </node>
+        <node oor:name="LinksVisited">
+          <prop oor:name="Dark" oor:op="fuse">
+            <value xsi:nil="true" />
+          </prop>
+          <prop oor:name="Light" oor:op="fuse">
+            <value xsi:nil="true" />
+          </prop>
+          <prop oor:name="IsVisible" oor:op="fuse">
+            <value>false</value>
+          </prop>
+        </node>
+        <node oor:name="MenuBarColor">
+          <prop oor:name="Dark" oor:op="fuse">
+            <value>1842204</value>
+          </prop>
+          <prop oor:name="Light" oor:op="fuse">
+            <value>12835577</value>
+          </prop>
+        </node>
+        <node oor:name="SQLParameter">
+          <prop oor:name="Dark" oor:op="fuse">
+            <value xsi:nil="true" />
+          </prop>
+          <prop oor:name="Light" oor:op="fuse">
+            <value xsi:nil="true" />
+          </prop>
+        </node>
+        <node oor:name="AppBackground">
+          <prop oor:name="Dark" oor:op="fuse">
+            <value>1118481</value>
+          </prop>
+          <prop oor:name="Light" oor:op="fuse">
+            <value>9476526</value>
+          </prop>
+          <prop oor:name="Bitmap" oor:op="fuse">
+            <value>;tiled</value>
+          </prop>
+          <prop oor:name="BackgroundType" oor:op="fuse">
+            <value>false</value>
+          </prop>
+        </node>
+        <node oor:name="BASICOperator">
+          <prop oor:name="Dark" oor:op="fuse">
+            <value xsi:nil="true" />
+          </prop>
+          <prop oor:name="Light" oor:op="fuse">
+            <value xsi:nil="true" />
+          </prop>
+        </node>
+        <node oor:name="CalcCellFocus">
+          <prop oor:name="Dark" oor:op="fuse">
+            <value xsi:nil="true" />
+          </prop>
+          <prop oor:name="Light" oor:op="fuse">
+            <value xsi:nil="true" />
+          </prop>
+        </node>
+        <node oor:name="CalcDetective">
+          <prop oor:name="Dark" oor:op="fuse">
+            <value xsi:nil="true" />
+          </prop>
+          <prop oor:name="Light" oor:op="fuse">
+            <value xsi:nil="true" />
+          </prop>
+        </node>
+        <node oor:name="CalcPageBreak">
+          <prop oor:name="Dark" oor:op="fuse">
+            <value xsi:nil="true" />
+          </prop>
+          <prop oor:name="Light" oor:op="fuse">
+            <value xsi:nil="true" />
+          </prop>
+        </node>
+        <node oor:name="CalcReference">
+          <prop oor:name="Dark" oor:op="fuse">
+            <value xsi:nil="true" />
+          </prop>
+          <prop oor:name="Light" oor:op="fuse">
+            <value xsi:nil="true" />
+          </prop>
+        </node>
+        <node oor:name="DisabledColor">
+          <prop oor:name="Dark" oor:op="fuse">
+            <value>8421504</value>
+          </prop>
+          <prop oor:name="Light" oor:op="fuse">
+            <value>11711154</value>
+          </prop>
+        </node>
+        <node oor:name="DocBoundaries">
+          <prop oor:name="Dark" oor:op="fuse">
+            <value xsi:nil="true" />
+          </prop>
+          <prop oor:name="Light" oor:op="fuse">
+            <value xsi:nil="true" />
+          </prop>
+        </node>
+        <node oor:name="InactiveColor">
+          <prop oor:name="Dark" oor:op="fuse">
+            <value>8421504</value>
+          </prop>
+          <prop oor:name="Light" oor:op="fuse">
+            <value>2764338</value>
+          </prop>
+        </node>
+        <node oor:name="MenuTextColor">
+          <prop oor:name="Dark" oor:op="fuse">
+            <value>15658734</value>
+          </prop>
+          <prop oor:name="Light" oor:op="fuse">
+            <value>1118481</value>
+          </prop>
+        </node>
+        <node oor:name="SQLIdentifier">
+          <prop oor:name="Dark" oor:op="fuse">
+            <value xsi:nil="true" />
+          </prop>
+          <prop oor:name="Light" oor:op="fuse">
+            <value xsi:nil="true" />
+          </prop>
+        </node>
+        <node oor:name="SeparatorColor">
+          <prop oor:name="Dark" oor:op="fuse">
+            <value>10066329</value>
+          </prop>
+          <prop oor:name="Light" oor:op="fuse">
+            <value>9014414</value>
+          </prop>
+        </node>
+        <node oor:name="WriterTextGrid">
+          <prop oor:name="Dark" oor:op="fuse">
+            <value xsi:nil="true" />
+          </prop>
+          <prop oor:name="Light" oor:op="fuse">
+            <value xsi:nil="true" />
+          </prop>
+        </node>
+        <node oor:name="ActiveTextColor">
+          <prop oor:name="Dark" oor:op="fuse">
+            <value>15658734</value>
+          </prop>
+          <prop oor:name="Light" oor:op="fuse">
+            <value>16579836</value>
+          </prop>
+        </node>
+        <node oor:name="BASICIdentifier">
+          <prop oor:name="Dark" oor:op="fuse">
+            <value xsi:nil="true" />
+          </prop>
+          <prop oor:name="Light" oor:op="fuse">
+            <value xsi:nil="true" />
+          </prop>
+        </node>
+        <node oor:name="ButtonTextColor">
+          <prop oor:name="Dark" oor:op="fuse">
+            <value>15658734</value>
+          </prop>
+          <prop oor:name="Light" oor:op="fuse">
+            <value>1118481</value>
+          </prop>
+        </node>
+        <node oor:name="MenuBorderColor">
+          <prop oor:name="Dark" oor:op="fuse">
+            <value>10066329</value>
+          </prop>
+          <prop oor:name="Light" oor:op="fuse">
+            <value>2764338</value>
+          </prop>
+        </node>
+        <node oor:name="TableBoundaries">
+          <prop oor:name="Dark" oor:op="fuse">
+            <value xsi:nil="true" />
+          </prop>
+          <prop oor:name="Light" oor:op="fuse">
+            <value xsi:nil="true" />
+          </prop>
+        </node>
+        <node oor:name="WindowTextColor">
+          <prop oor:name="Dark" oor:op="fuse">
+            <value>14540253</value>
+          </prop>
+          <prop oor:name="Light" oor:op="fuse">
+            <value>1118481</value>
+          </prop>
+        </node>
+        <node oor:name="CalcHiddenColRow">
+          <prop oor:name="Dark" oor:op="fuse">
+            <value xsi:nil="true" />
+          </prop>
+          <prop oor:name="Light" oor:op="fuse">
+            <value xsi:nil="true" />
+          </prop>
+          <prop oor:name="IsVisible" oor:op="fuse">
+            <value>true</value>
+          </prop>
+        </node>
+        <node oor:name="CalcTextOverflow">
+          <prop oor:name="Dark" oor:op="fuse">
+            <value xsi:nil="true" />
+          </prop>
+          <prop oor:name="Light" oor:op="fuse">
+            <value xsi:nil="true" />
+          </prop>
+          <prop oor:name="IsVisible" oor:op="fuse">
+            <value>true</value>
+          </prop>
+        </node>
+        <node oor:name="MenuBarTextColor">
+          <prop oor:name="Dark" oor:op="fuse">
+            <value>15658734</value>
+          </prop>
+          <prop oor:name="Light" oor:op="fuse">
+            <value>1118481</value>
+          </prop>
+        </node>
+        <node oor:name="WriterPageBreaks">
+          <prop oor:name="Dark" oor:op="fuse">
+            <value xsi:nil="true" />
+          </prop>
+          <prop oor:name="Light" oor:op="fuse">
+            <value xsi:nil="true" />
+          </prop>
+        </node>
+        <node oor:name="ActiveBorderColor">
+          <prop oor:name="Dark" oor:op="fuse">
+            <value>15658734</value>
+          </prop>
+          <prop oor:name="Light" oor:op="fuse">
+            <value>12632256</value>
+          </prop>
+        </node>
+        <node oor:name="DisabledTextColor">
+          <prop oor:name="Dark" oor:op="fuse">
+            <value>11711154</value>
+          </prop>
+          <prop oor:name="Light" oor:op="fuse">
+            <value>6710886</value>
+          </prop>
+        </node>
+        <node oor:name="InactiveTextColor">
+          <prop oor:name="Dark" oor:op="fuse">
+            <value>13421772</value>
+          </prop>
+          <prop oor:name="Light" oor:op="fuse">
+            <value>7238003</value>
+          </prop>
+        </node>
+        <node oor:name="WriterIdxShadings">
+          <prop oor:name="Dark" oor:op="fuse">
+            <value xsi:nil="true" />
+          </prop>
+          <prop oor:name="Light" oor:op="fuse">
+            <value xsi:nil="true" />
+          </prop>
+          <prop oor:name="IsVisible" oor:op="fuse">
+            <value>true</value>
+          </prop>
+        </node>
+        <node oor:name="CalcDetectiveError">
+          <prop oor:name="Dark" oor:op="fuse">
+            <value xsi:nil="true" />
+          </prop>
+          <prop oor:name="Light" oor:op="fuse">
+            <value xsi:nil="true" />
+          </prop>
+        </node>
+        <node oor:name="MenuHighlightColor">
+          <prop oor:name="Dark" oor:op="fuse">
+            <value>5280650</value>
+          </prop>
+          <prop oor:name="Light" oor:op="fuse">
+            <value>16772802</value>
+          </prop>
+        </node>
+        <node oor:name="WriterDirectCursor">
+          <prop oor:name="Dark" oor:op="fuse">
+            <value xsi:nil="true" />
+          </prop>
+          <prop oor:name="Light" oor:op="fuse">
+            <value xsi:nil="true" />
+          </prop>
+          <prop oor:name="IsVisible" oor:op="fuse">
+            <value>true</value>
+          </prop>
+        </node>
+        <node oor:name="CalcNotesBackground">
+          <prop oor:name="Dark" oor:op="fuse">
+            <value xsi:nil="true" />
+          </prop>
+          <prop oor:name="Light" oor:op="fuse">
+            <value xsi:nil="true" />
+          </prop>
+        </node>
+        <node oor:name="CalcPageBreakManual">
+          <prop oor:name="Dark" oor:op="fuse">
+            <value xsi:nil="true" />
+          </prop>
+          <prop oor:name="Light" oor:op="fuse">
+            <value xsi:nil="true" />
+          </prop>
+        </node>
+        <node oor:name="InactiveBorderColor">
+          <prop oor:name="Dark" oor:op="fuse">
+            <value>11711154</value>
+          </prop>
+          <prop oor:name="Light" oor:op="fuse">
+            <value>2764338</value>
+          </prop>
+        </node>
+        <node oor:name="WriterFieldShadings">
+          <prop oor:name="Dark" oor:op="fuse">
+            <value xsi:nil="true" />
+          </prop>
+          <prop oor:name="Light" oor:op="fuse">
+            <value xsi:nil="true" />
+          </prop>
+          <prop oor:name="IsVisible" oor:op="fuse">
+            <value>true</value>
+          </prop>
+        </node>
+        <node oor:name="WriterNonPrintChars">
+          <prop oor:name="Dark" oor:op="fuse">
+            <value xsi:nil="true" />
+          </prop>
+          <prop oor:name="Light" oor:op="fuse">
+            <value xsi:nil="true" />
+          </prop>
+        </node>
+        <node oor:name="MenuBarHighlightColor">
+          <prop oor:name="Dark" oor:op="fuse">
+            <value>5280650</value>
+          </prop>
+          <prop oor:name="Light" oor:op="fuse">
+            <value>16769452</value>
+          </prop>
+        </node>
+        <node oor:name="WriterScriptIndicator">
+          <prop oor:name="Dark" oor:op="fuse">
+            <value xsi:nil="true" />
+          </prop>
+          <prop oor:name="Light" oor:op="fuse">
+            <value xsi:nil="true" />
+          </prop>
+        </node>
+        <node oor:name="CalcPageBreakAutomatic">
+          <prop oor:name="Dark" oor:op="fuse">
+            <value xsi:nil="true" />
+          </prop>
+          <prop oor:name="Light" oor:op="fuse">
+            <value xsi:nil="true" />
+          </prop>
+        </node>
+        <node oor:name="MenuHighlightTextColor">
+          <prop oor:name="Dark" oor:op="fuse">
+            <value>15658734</value>
+          </prop>
+          <prop oor:name="Light" oor:op="fuse">
+            <value>1118481</value>
+          </prop>
+        </node>
+        <node oor:name="WriterHeaderFooterMark">
+          <prop oor:name="Dark" oor:op="fuse">
+            <value xsi:nil="true" />
+          </prop>
+          <prop oor:name="Light" oor:op="fuse">
+            <value xsi:nil="true" />
+          </prop>
+        </node>
+        <node oor:name="CalcProtectedBackground">
+          <prop oor:name="Dark" oor:op="fuse">
+            <value xsi:nil="true" />
+          </prop>
+          <prop oor:name="Light" oor:op="fuse">
+            <value xsi:nil="true" />
+          </prop>
+        </node>
+        <node oor:name="WriterSectionBoundaries">
+          <prop oor:name="Dark" oor:op="fuse">
+            <value xsi:nil="true" />
+          </prop>
+          <prop oor:name="Light" oor:op="fuse">
+            <value xsi:nil="true" />
+          </prop>
+        </node>
+        <node oor:name="MenuBarHighlightTextColor">
+          <prop oor:name="Dark" oor:op="fuse">
+            <value>15658734</value>
+          </prop>
+          <prop oor:name="Light" oor:op="fuse">
+            <value>0</value>
+          </prop>
+        </node>
+      </node>
+    </node>
+    <prop oor:name="CurrentColorScheme">
+      <value>Office 2003 Blue</value>
+    </prop>
+  </node>
+</oor:component-data>
