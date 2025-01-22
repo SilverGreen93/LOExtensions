@@ -523,10 +523,10 @@
         </node>
         <node oor:name="ActiveTextColor">
           <prop oor:name="Dark" oor:op="fuse">
-            <value>15658734</value>
+            <value xsi:nil="true" />
           </prop>
           <prop oor:name="Light" oor:op="fuse">
-            <value>16579836</value>
+            <value xsi:nil="true" />
           </prop>
         </node>
         <node oor:name="BASICIdentifier">
@@ -563,7 +563,7 @@
         </node>
         <node oor:name="WindowTextColor">
           <prop oor:name="Dark" oor:op="fuse">
-            <value>14540253</value>
+            <value>15658734</value>
           </prop>
           <prop oor:name="Light" oor:op="fuse">
             <value>1118481</value>
@@ -617,18 +617,18 @@
         </node>
         <node oor:name="DisabledTextColor">
           <prop oor:name="Dark" oor:op="fuse">
-            <value>11711154</value>
+            <value xsi:nil="true" />
           </prop>
           <prop oor:name="Light" oor:op="fuse">
-            <value>6710886</value>
+            <value xsi:nil="true" />
           </prop>
         </node>
         <node oor:name="InactiveTextColor">
           <prop oor:name="Dark" oor:op="fuse">
-            <value>13421772</value>
+            <value xsi:nil="true" />
           </prop>
           <prop oor:name="Light" oor:op="fuse">
-            <value>7238003</value>
+            <value xsi:nil="true" />
           </prop>
         </node>
         <node oor:name="WriterIdxShadings">
@@ -655,7 +655,7 @@
             <value>15245826</value>
           </prop>
           <prop oor:name="Light" oor:op="fuse">
-            <value>16772802</value>
+            <value>16769452</value>
           </prop>
         </node>
         <node oor:name="WriterDirectCursor">
@@ -773,7 +773,7 @@
             <value>15658734</value>
           </prop>
           <prop oor:name="Light" oor:op="fuse">
-            <value>0</value>
+            <value>1118481</value>
           </prop>
         </node>
       </node>
