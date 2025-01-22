@@ -1,4 +1,4 @@
-# Office 2003 Blue Theme for LibreOffice 
+# Office 2003 Blue Theme for LibreOffice
 
 This theme brings the Microsoft Office 2003 Blue theme look to LibreOffice.
 
