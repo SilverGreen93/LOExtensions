@@ -162,7 +162,7 @@
         </node>
         <node oor:name="BaseColor">
           <prop oor:name="Dark" oor:op="fuse">
-            <value>1842204</value>
+            <value>3685692</value>
           </prop>
           <prop oor:name="Light" oor:op="fuse">
             <value>16777215</value>
@@ -194,7 +194,7 @@
         </node>
         <node oor:name="MenuColor">
           <prop oor:name="Dark" oor:op="fuse">
-            <value>1842204</value>
+            <value>3685692</value>
           </prop>
           <prop oor:name="Light" oor:op="fuse">
             <value>16185078</value>
@@ -298,7 +298,7 @@
         </node>
         <node oor:name="ButtonColor">
           <prop oor:name="Dark" oor:op="fuse">
-            <value>3355443</value>
+            <value>3685692</value>
           </prop>
           <prop oor:name="Light" oor:op="fuse">
             <value>16185078</value>
@@ -354,7 +354,7 @@
         </node>
         <node oor:name="WindowColor">
           <prop oor:name="Dark" oor:op="fuse">
-            <value>1118481</value>
+            <value>3494505</value>
           </prop>
           <prop oor:name="Light" oor:op="fuse">
             <value>12835577</value>
@@ -397,7 +397,7 @@
         </node>
         <node oor:name="MenuBarColor">
           <prop oor:name="Dark" oor:op="fuse">
-            <value>1842204</value>
+            <value>3494505</value>
           </prop>
           <prop oor:name="Light" oor:op="fuse">
             <value>12835577</value>
@@ -413,7 +413,7 @@
         </node>
         <node oor:name="AppBackground">
           <prop oor:name="Dark" oor:op="fuse">
-            <value>1118481</value>
+            <value>1780277</value>
           </prop>
           <prop oor:name="Light" oor:op="fuse">
             <value>9476526</value>
@@ -652,7 +652,7 @@
         </node>
         <node oor:name="MenuHighlightColor">
           <prop oor:name="Dark" oor:op="fuse">
-            <value>5280650</value>
+            <value>15245826</value>
           </prop>
           <prop oor:name="Light" oor:op="fuse">
             <value>16772802</value>
@@ -714,7 +714,7 @@
         </node>
         <node oor:name="MenuBarHighlightColor">
           <prop oor:name="Dark" oor:op="fuse">
-            <value>5280650</value>
+            <value>15245826</value>
           </prop>
           <prop oor:name="Light" oor:op="fuse">
             <value>16769452</value>
