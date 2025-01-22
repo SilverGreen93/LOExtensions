@@ -301,7 +301,7 @@
             <value>3355443</value>
           </prop>
           <prop oor:name="Light" oor:op="fuse">
-            <value xsi:nil="true" />
+            <value>16185078</value>
           </prop>
         </node>
         <node oor:name="CalcFormula">
