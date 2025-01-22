@@ -165,7 +165,7 @@
             <value>4342338</value>
           </prop>
           <prop oor:name="Light" oor:op="fuse">
-            <value xsi:nil="true" />
+            <value>16185078</value>
           </prop>
         </node>
         <node oor:name="CalcValue">
@@ -197,7 +197,7 @@
             <value>3289651</value>
           </prop>
           <prop oor:name="Light" oor:op="fuse">
-            <value xsi:nil="true" />
+            <value>16185078</value>
           </prop>
         </node>
         <node oor:name="SQLNumber">
@@ -301,7 +301,7 @@
             <value>2434341</value>
           </prop>
           <prop oor:name="Light" oor:op="fuse">
-            <value xsi:nil="true" />
+            <value>16185078</value>
           </prop>
         </node>
         <node oor:name="CalcFormula">
@@ -357,7 +357,7 @@
             <value>3355443</value>
           </prop>
           <prop oor:name="Light" oor:op="fuse">
-            <value xsi:nil="true" />
+            <value>13421772</value>
           </prop>
         </node>
         <node oor:name="BASICComment">
@@ -400,7 +400,7 @@
             <value>3289651</value>
           </prop>
           <prop oor:name="Light" oor:op="fuse">
-            <value xsi:nil="true" />
+            <value>13421772</value>
           </prop>
         </node>
         <node oor:name="SQLParameter">
@@ -416,7 +416,7 @@
             <value>1973790</value>
           </prop>
           <prop oor:name="Light" oor:op="fuse">
-            <value xsi:nil="true" />
+            <value>10066329</value>
           </prop>
           <prop oor:name="Bitmap" oor:op="fuse">
             <value>;tiled</value>
@@ -491,10 +491,10 @@
         </node>
         <node oor:name="MenuTextColor">
           <prop oor:name="Dark" oor:op="fuse">
-            <value xsi:nil="true" />
+            <value>15658734</value>
           </prop>
           <prop oor:name="Light" oor:op="fuse">
-            <value xsi:nil="true" />
+            <value>1118481</value>
           </prop>
         </node>
         <node oor:name="SQLIdentifier">
@@ -539,10 +539,10 @@
         </node>
         <node oor:name="ButtonTextColor">
           <prop oor:name="Dark" oor:op="fuse">
-            <value xsi:nil="true" />
+            <value>15658734</value>
           </prop>
           <prop oor:name="Light" oor:op="fuse">
-            <value xsi:nil="true" />
+            <value>1118481</value>
           </prop>
         </node>
         <node oor:name="MenuBorderColor">
@@ -563,10 +563,10 @@
         </node>
         <node oor:name="WindowTextColor">
           <prop oor:name="Dark" oor:op="fuse">
-            <value xsi:nil="true" />
+            <value>15658734</value>
           </prop>
           <prop oor:name="Light" oor:op="fuse">
-            <value xsi:nil="true" />
+            <value>1118481</value>
           </prop>
         </node>
         <node oor:name="CalcHiddenColRow">
@@ -593,10 +593,10 @@
         </node>
         <node oor:name="MenuBarTextColor">
           <prop oor:name="Dark" oor:op="fuse">
-            <value xsi:nil="true" />
+            <value>15658734</value>
           </prop>
           <prop oor:name="Light" oor:op="fuse">
-            <value xsi:nil="true" />
+            <value>1118481</value>
           </prop>
         </node>
         <node oor:name="WriterPageBreaks">
@@ -738,10 +738,10 @@
         </node>
         <node oor:name="MenuHighlightTextColor">
           <prop oor:name="Dark" oor:op="fuse">
-            <value xsi:nil="true" />
+            <value>15658734</value>
           </prop>
           <prop oor:name="Light" oor:op="fuse">
-            <value xsi:nil="true" />
+            <value>1118481</value>
           </prop>
         </node>
         <node oor:name="WriterHeaderFooterMark">
@@ -770,10 +770,10 @@
         </node>
         <node oor:name="MenuBarHighlightTextColor">
           <prop oor:name="Dark" oor:op="fuse">
-            <value xsi:nil="true" />
+            <value>15658734</value>
           </prop>
           <prop oor:name="Light" oor:op="fuse">
-            <value xsi:nil="true" />
+            <value>1118481</value>
           </prop>
         </node>
       </node>
