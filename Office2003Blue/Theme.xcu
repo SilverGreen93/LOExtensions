@@ -633,10 +633,10 @@
         </node>
         <node oor:name="WriterIdxShadings">
           <prop oor:name="Dark" oor:op="fuse">
-            <value xsi:nil="true" />
+            <value>12632256</value>
           </prop>
           <prop oor:name="Light" oor:op="fuse">
-            <value xsi:nil="true" />
+            <value>12632256</value>
           </prop>
           <prop oor:name="IsVisible" oor:op="fuse">
             <value>true</value>
@@ -695,10 +695,10 @@
         </node>
         <node oor:name="WriterFieldShadings">
           <prop oor:name="Dark" oor:op="fuse">
-            <value xsi:nil="true" />
+            <value>12632256</value>
           </prop>
           <prop oor:name="Light" oor:op="fuse">
-            <value xsi:nil="true" />
+            <value>12632256</value>
           </prop>
           <prop oor:name="IsVisible" oor:op="fuse">
             <value>true</value>
