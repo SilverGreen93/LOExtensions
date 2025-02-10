@@ -119,10 +119,10 @@
         </node>
         <node oor:name="CalcGrid">
           <prop oor:name="Dark" oor:op="fuse">
-            <value>1842204</value>
+            <value>13421772</value>
           </prop>
           <prop oor:name="Light" oor:op="fuse">
-            <value xsi:nil="true" />
+            <value>13421772</value>
           </prop>
         </node>
         <node oor:name="CalcText">
