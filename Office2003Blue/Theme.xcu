@@ -738,7 +738,7 @@
         </node>
         <node oor:name="MenuHighlightTextColor">
           <prop oor:name="Dark" oor:op="fuse">
-            <value>15658734</value>
+            <value>1118481</value>
           </prop>
           <prop oor:name="Light" oor:op="fuse">
             <value>1118481</value>
@@ -770,7 +770,7 @@
         </node>
         <node oor:name="MenuBarHighlightTextColor">
           <prop oor:name="Dark" oor:op="fuse">
-            <value>15658734</value>
+            <value>1118481</value>
           </prop>
           <prop oor:name="Light" oor:op="fuse">
             <value>1118481</value>
