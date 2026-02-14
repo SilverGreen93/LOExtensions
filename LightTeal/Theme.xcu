@@ -302,7 +302,7 @@
         </node>
         <node oor:name="DisabledColor">
           <prop oor:name="Color" oor:op="fuse">
-            <value>11711154</value>
+            <value>5280650</value>
           </prop>
         </node>
         <node oor:name="DocBoundaries">
